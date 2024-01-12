@@ -2,7 +2,7 @@
 
 **Manimaran2110/Manimaran2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://komarev.com/ghpvc/?username=your-github-Manimaran2110&base=7776)
+![](https://komarev.com/ghpvc/?username=your-github-Manimaran2110)
 
 Here are some ideas to get you started:
 

@@ -11,7 +11,6 @@
 <div align="left">
  
 Electrical Student @ St.Joseph's College of Engineering.
-<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 <!-- 🔭 Here's my [portfolio](https://hareesh.web.app/)  -->                                               
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to work on Frontend <!-- 🤔 I’m looking for help with Placements in FAANG -->
@@ -22,15 +21,19 @@ Electrical Student @ St.Joseph's College of Engineering.
 - ⚡ Fun fact: I'm Learning Spanish.
 
 
-
+</div>
 
   
 
 # 💻 Tech Stack:
+
+
 <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask&perline=6" alt="Tech Stack" />
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 
-</div>
+
+
 
 <!--
 ### Working Environment 

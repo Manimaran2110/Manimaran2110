@@ -30,6 +30,7 @@ Electrical Student @ St.Joseph's College of Engineering.
  <a href="https://skillicons.dev">
  <img align="left" src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask&perline=6" alt="Tech Stack" />
  </a>
+ 
 </p>
 
 
@@ -43,6 +44,7 @@ Electrical Student @ St.Joseph's College of Engineering.
 -->
 
 # 📊 GitHub Stats:
+
 <div align="center">
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manimaran2110&theme=blue_green)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manimaran2110&theme=blue_green)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manimaran2110&theme=blue_green)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manimaran2110&theme=blue_green)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manimaran2110&theme=blue_green&utcOffset=8)

@@ -23,7 +23,7 @@ Electrical Student @ St.Joseph's College of Engineering.
 
 
 # 💻 Tech Stack:
-<p align="center">
+<div align="center">
 <!--
  <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
  -->
@@ -31,7 +31,7 @@ Electrical Student @ St.Joseph's College of Engineering.
  <img align="left" src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask&perline=6" alt="Tech Stack" />
  </a>
  
-</p>
+</div>
 
 
 <!--

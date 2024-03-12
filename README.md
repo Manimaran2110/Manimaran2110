@@ -20,6 +20,7 @@ Electrical Student @ St.Joseph's College of Engineering.
 - 💬 Ask me about Tech <br /> 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manimaran-v-21-10-2003-/) <br /> 
+[!(<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />)](https://www.linkedin.com/in/manimaran-v-21-10-2003-/)
 - 😄 Pronouns: Techie <br /> 
 - ⚡ Fun fact: I'm Learning Spanish. <br /> 
 
@@ -29,6 +30,7 @@ Electrical Student @ St.Joseph's College of Engineering.
 <br /> 
 <br /> 
 <br /> 
+
 # 💻 Tech Stack:
 
 <div align="center">

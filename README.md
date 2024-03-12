@@ -20,18 +20,17 @@ Electrical Student @ St.Joseph's College of Engineering.
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I'm Learning Spanish.
 
----
+
 
 # 💻 Tech Stack:
-
-
-
+<p align="center">
 <!--
  <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
  -->
-
+ <a href="https://skillicons.dev">
  <img align="left" src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask&perline=6" alt="Tech Stack" />
-
+ </a>
+</p>
 
 
 <!--
@@ -42,7 +41,7 @@ Electrical Student @ St.Joseph's College of Engineering.
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 -->
----
+
 # 📊 GitHub Stats:
 <div align="center">
  

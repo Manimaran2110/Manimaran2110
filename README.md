@@ -1,7 +1,14 @@
 ### Hi there 👋 This is Manimaran. V
 
-![](https://komarev.com/ghpvc/?username=your-github-Manimaran2110)
+https://count.getloli.com/get/@:Manimaran2110
 
+<img src="https://count.getloli.com/get/@:Manimaran2110" alt=":name" />
+
+![:name](https://count.getloli.com/get/@:Manimaran2110)
+
+<!--
+![](https://komarev.com/ghpvc/?username=your-github-Manimaran2110)
+-->
 ---
 <div align="left">
  

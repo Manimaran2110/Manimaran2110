@@ -2,12 +2,11 @@
 
 ![:name](https://count.getloli.com/get/@:Manimaran2110)
 
-
-
 <!--
 ![](https://komarev.com/ghpvc/?username=your-github-Manimaran2110)
 -->
 ---
+
 <div align="left">
  
 Electrical Student @ St.Joseph's College of Engineering.
@@ -34,8 +33,9 @@ Electrical Student @ St.Joseph's College of Engineering.
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 </div>
-
-
+<br />
+<br />
+<br />
 
 <!--
 ### Working Environment 

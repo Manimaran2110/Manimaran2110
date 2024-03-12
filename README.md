@@ -25,6 +25,10 @@ Electrical Student @ St.Joseph's College of Engineering.
 
 </div>
 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
 # 💻 Tech Stack:
 
 <div align="center">

@@ -20,10 +20,10 @@ Electrical Student @ St.Joseph's College of Engineering.
 - 🌱 I’m currently learning DSA <br /> 
 - 👯 I’m looking to work on Frontend <!-- 🤔 I’m looking for help with Placements in FAANG --> <br /> 
 - 💬 Ask me about Tech <br /> 
-<!--
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://github.com/manimaran2110/Pepsi-Landing-page-)
--->
 - 📫 How to reach me :
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/manimaran-v-21-10-2003-)
+
+
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/manimaran-v-21-10-2003-) <br />
 - 😄 Pronouns: Techie <br /> 
 - ⚡ Fun fact: I'm Learning Spanish. <br /> 

@@ -27,7 +27,7 @@ Electrical Student @ St.Joseph's College of Engineering.
 -->
 
 ### I code in
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,saas,python,java,c,git,flask,node,c++,bootstrap&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,saas,python,java,c,git,flask,node,c++,bootstrap&perline=5)](https://skillicons.dev)
 
 ### Working Environment 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>

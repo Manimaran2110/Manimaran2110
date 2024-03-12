@@ -15,13 +15,13 @@
 Electrical Student @ St.Joseph's College of Engineering.
 <!-- 🔭 Here's my [portfolio](https://hareesh.web.app/)  -->    
  <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to work on Frontend <!-- 🤔 I’m looking for help with Placements in FAANG -->
-- 💬 Ask me about Tech
+- 🌱 I’m currently learning DSA <br /> 
+- 👯 I’m looking to work on Frontend <!-- 🤔 I’m looking for help with Placements in FAANG --> <br /> 
+- 💬 Ask me about Tech <br /> 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manimaran-v-21-10-2003-/)
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I'm Learning Spanish.
+- 😄 Pronouns: Techie <br /> 
+- ⚡ Fun fact: I'm Learning Spanish. <br /> 
 
 </div>
 

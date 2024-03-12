@@ -36,7 +36,7 @@ Electrical Student @ St.Joseph's College of Engineering.
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manimaran2110&theme=blue_green)
-
+<br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manimaran2110&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manimaran2110&theme=blue_green)

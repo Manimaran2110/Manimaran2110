@@ -1,9 +1,5 @@
 ### Hi there 👋 This is Manimaran. V
 
-https://count.getloli.com/get/@:Manimaran2110
-
-<img src="https://count.getloli.com/get/@:Manimaran2110" alt=":name" />
-
 ![:name](https://count.getloli.com/get/@:Manimaran2110)
 
 <!--

@@ -18,9 +18,11 @@ Electrical Student @ St.Joseph's College of Engineering.
 
 </div>
 
+
+  
 ---
 
-## Tech Stack:
+# 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask&perline=6" alt="Tech Stack" />
 
 <!--

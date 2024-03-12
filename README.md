@@ -25,9 +25,8 @@ Electrical Student @ St.Joseph's College of Engineering.
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I'm Learning Spanish.
 -->
-
-### I code in
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,saas,python,java,c,git,flask,node,c++,bootstrap)](https://skillicons.dev)
+## I code in
+<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask&perline=6" alt="Tech Stack" />
 
 ### Working Environment 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>

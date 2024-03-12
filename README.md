@@ -3,7 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-Manimaran2110)
 
 ---
-<div>
+<div align="left">
+ 
 Electrical Student @ St.Joseph's College of Engineering.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <!-- 🔭 Here's my [portfolio](https://hareesh.web.app/)  -->                                               

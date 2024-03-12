@@ -1,4 +1,6 @@
-### Hi there 👋 This is Manimaran. V
+### Hi there 👋 
+
+This is Manimaran. V
 <!--
  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAyNTAzMjUsIm5iZiI6MTcxMDI1MDAyNSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzEyVDEzMjcwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJiZmNmNWI3YmZjY2VmNGJkYmQ2ZjgyNzFmYmQ3NGUzMmE0OTU5YzkxNGQ3MzI4ZGIwY2FhNDA5ZmVmMzI1ZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1I4-8vRvEe7OD11urZxK9UZV8cC-swt8P1svIWH95xw">
  -->
@@ -18,8 +20,10 @@ Electrical Student @ St.Joseph's College of Engineering.
 - 🌱 I’m currently learning DSA <br /> 
 - 👯 I’m looking to work on Frontend <!-- 🤔 I’m looking for help with Placements in FAANG --> <br /> 
 - 💬 Ask me about Tech <br /> 
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://github.com/manimaran2110/Pepsi-Landing-page-)
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/manimaran-v-21-10-2003-) <br />
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/manimaran-v-21-10-2003-) <br />
 - 😄 Pronouns: Techie <br /> 
 - ⚡ Fun fact: I'm Learning Spanish. <br /> 
 

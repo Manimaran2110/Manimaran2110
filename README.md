@@ -16,13 +16,16 @@ Electrical Student @ St.Joseph's College of Engineering.
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I'm Learning Spanish.
 
-</div>
+
 
 
   
 
 # 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask&perline=6" alt="Tech Stack" />
+
+
+</div>
 
 <!--
 ### Working Environment 

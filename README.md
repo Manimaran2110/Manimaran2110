@@ -41,7 +41,7 @@ profile views
 <p align="center">
 
  <a href="https://skillicons.dev">
- <img align="left" src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask&perline=6" alt="Tech Stack" />
+ <img align="left" src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask" alt="Tech Stack" />
  </a>
  
 </p>

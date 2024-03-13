@@ -39,11 +39,9 @@ profile views
 # 💻 Tech Stack:
 
 <p align="center">
-
  <a href="https://skillicons.dev">
  <img align="left" src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask" alt="Tech Stack" />
  </a>
- 
 </p>
 
 

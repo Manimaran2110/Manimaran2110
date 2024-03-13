@@ -38,20 +38,22 @@ profile views
 
 # 💻 Tech Stack:
 
-<div align="center">
-<!--
- <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
- -->
+<p align="center">
+
  <a href="https://skillicons.dev">
  <img align="left" src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask&perline=6" alt="Tech Stack" />
  </a>
  
-</div>
+</p>
 
 
 <!--
 ### Working Environment 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+
+<!--
+ <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+ -->
 -->
 <!-- 
 ### 💻 Workspace Spec

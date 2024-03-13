@@ -31,11 +31,6 @@ profile views
 
 </div>
 
-<br /> 
-<br /> 
-<br /> 
-<br /> 
-
 # 💻 Tech Stack:
 
 <p align="center">
@@ -52,7 +47,7 @@ profile views
 <!--
  <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
  -->
--->
+
 <!-- 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 

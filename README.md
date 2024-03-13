@@ -1,6 +1,10 @@
 ### Hi there 👋 
 
+<!--
  <img margin-bottom="auto" align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+  -->
+
+   <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
  
 **This is Manimaran. V**
 <!--
@@ -42,7 +46,7 @@ profile views
 </p>
 
 
- <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+
 
 <!--
 ### Working Environment 

@@ -39,7 +39,7 @@
 ## 📈 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Manimaran_V?theme=wtf&font=NTR&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Manimaran_V?theme=dark&font=NTR&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---

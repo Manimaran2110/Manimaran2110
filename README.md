@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,bootstrap,js,java,python,c,git,flask" alt="Tech Stack" />
   </a>
 </p>
 
@@ -36,8 +36,17 @@
 
 ---
 
-<!-- Additional Images -->
+## 📈 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Manimaran_V?theme=wtf&font=NTR&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+---
+
+<!-- Additional Images
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" height="200" alt="Coding" />
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" height="200" alt="Frontend Development" />
 </div>
+ -->

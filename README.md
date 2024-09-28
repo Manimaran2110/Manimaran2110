@@ -8,13 +8,19 @@
 
 ### Electrical Student @ St. Joseph's College of Engineering
 
-- 🌱 Currently learning Data Structures and Algorithms (DSA)
-- 👯 Looking to collaborate on Frontend projects
-- 💬 Ask me about Tech
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I'm learning Spanish
+</div>
 
 ---
+
+- Currently learning Data Structures and Algorithms (DSA)
+- Looking to collaborate on Frontend projects
+- Ask me about Tech
+- Pronouns: Techie
+- Fun fact: I'm learning Spanish
+
+---
+
+<div align="center">
 
 ## 💻 Tech Stack
 

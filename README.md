@@ -2,8 +2,6 @@
 
 ## Hi there 👋
 
-<img width="370" height="290" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Hi there" />
-
 **This is Manimaran. V**
 
 ### Electrical Student @ St. Joseph's College of Engineering

@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Artificial Intelligence and Machine Learning**
 
-- 📝 I regularly Solve problems in [Leetcode and Skillrack](Leetcode and Skillrack)
-
 - 💬 Ask me about **Frontend Developments**
 
 - 📫 How to reach me **manimaranvinayagam21@gmail.com**
